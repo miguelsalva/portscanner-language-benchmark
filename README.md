@@ -11,6 +11,7 @@ Origin of the code:
 ### Benchmark results
 
 This benchmark has been performed using the _time_ command in Linux to get the run time:
+
     miguel@minidell:~/dev$ time ./portscanner 192.168.1.1
     Port 23 is open
     Port 53 is open
