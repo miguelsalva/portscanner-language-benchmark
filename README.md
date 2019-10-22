@@ -4,8 +4,8 @@ This repository benchmarks a simple TCP port scanner written in C and Python, in
 
 
 Origin of the code:
-* C: An old paper named _Coding a TCP Connect Port Scanner: Step by Step_ from truncode security development
-* Python: HowTo/Sockets from the official Python wiki at https://wiki.python.org/moin/HowTo/Sockets
+* C: An old paper named _Coding a TCP Connect Port Scanner: Step by Step_ by truncode security development
+* Python: _HowTo/Sockets_ from the official Python wiki at https://wiki.python.org/moin/HowTo/Sockets
 <br>
 
 ### Benchmark results
