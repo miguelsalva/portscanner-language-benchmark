@@ -13,7 +13,7 @@
 #include <netinet/in.h>
 
 #define MIN_PORT 0
-#define MAX_PORT 1023 
+#define MAX_PORT 65535 
 /* System ports: 0-1023
  * Registered ports: 1024-49151
  * Private ports: 49152-65535 */

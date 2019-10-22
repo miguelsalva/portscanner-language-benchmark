@@ -9,7 +9,7 @@ import socket
 
 host = sys.argv[1]
 MIN_PORT= 0
-MAX_PORT = 1023
+MAX_PORT = 65535 
 # System ports: 0-1023
 # Registered ports: 1024-49151
 # Private ports: 49152-65535 
