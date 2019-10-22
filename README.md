@@ -11,7 +11,6 @@ Origin of the code:
 ### Benchmark results
 
 This benchmark has been performed using the _time_ command in Linux to get the run time:
-
     miguel@minidell:~/dev$ time ./portscanner 192.168.1.1
     Port 23 is open
     Port 53 is open
@@ -22,14 +21,12 @@ This benchmark has been performed using the _time_ command in Linux to get the r
     user	0m0,000s
     sys	0m0,090s
 
-
+All scanning have been performed against an internal network host.
 Also, three different port ranges have been used:
 1. System ports: 0-1023
 2. Registered ports: 1024-49151
 3. Private ports: 49152-65535 
-
-All scanning have been performed against an internal network host.
-
+<br>
 
 Please find below the final results:
 
