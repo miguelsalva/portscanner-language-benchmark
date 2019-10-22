@@ -23,6 +23,7 @@ This benchmark has been performed using the _time_ command in Linux to get the r
     sys	0m0,090s
 
 All scanning have been performed against an internal network host.
+
 Also, three different port ranges have been used:
 1. System ports: 0-1023
 2. Registered ports: 1024-49151
