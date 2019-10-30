@@ -36,6 +36,8 @@ Programming Language | System ports time | System+Registered ports time | All po
 -------------------- | ----------------- | ---------------------------- | --------------
 C | 0m2,016s | 1m44,030s | 2m16,991s
 Python | 0m2,244s | 1m45,825s | 2m19,512s
+Ruby | 0m2,369s | 1m47,770s | 2m23,626s 
+Shell | 0m2,326s | 1m50,459s | 2m27,526s 
 <br>
 
 ### Contributing 

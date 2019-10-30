@@ -4,8 +4,8 @@ require 'socket'
 require 'timeout'
 
 $site = ARGV[0]
-$min_port = ARGV[1]
-$max_port = ARGV[2]
+$min_port = 0 
+$max_port = 65535
 $puertos = ((Integer $min_port)..(Integer $max_port)).to_a
 
 def scanport(port)
