@@ -8,7 +8,6 @@ Code source:
 * Python: _HowTo/Sockets_ from the official Python wiki at https://wiki.python.org/moin/HowTo/Sockets
 * Ruby: Contribution by @jbarbera
 * SHell: Contribution by @jbarbera
-
 <br>
 
 ### Benchmark results
@@ -45,6 +44,6 @@ Shell | 0m2,326s | 1m50,459s | 2m27,526s
 
 ### Contributing 
 
-Please feel free to contribute with any idea or comment.
+Please feel free to contribute with any idea or comment.<br>
 Try to keep the same coding structure for the benchmark being as close as possible.
 
