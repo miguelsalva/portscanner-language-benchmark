@@ -6,7 +6,7 @@ This repository benchmarks a simple TCP port scanner written in C and Python, in
 Code source:
 * C: An old paper named _Coding a TCP Connect Port Scanner: Step by Step_ by truncode security development
 * Python: _HowTo/Sockets_ from the official Python wiki at https://wiki.python.org/moin/HowTo/Sockets
-* Ruby: Contribution by @jbarbera 
+* Ruby: Contribution by @jbarbera
 * SHell: Contribution by @jbarbera
 
 <br>
@@ -45,5 +45,6 @@ Shell | 0m2,326s | 1m50,459s | 2m27,526s
 
 ### Contributing 
 
-Please feel free to contribute with any idea or comment. Try to keep the same coding structure for the benchmark being as close as possible
+Please feel free to contribute with any idea or comment.
+Try to keep the same coding structure for the benchmark being as close as possible.
 
