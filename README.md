@@ -7,7 +7,7 @@ Code source:
 * C: An old paper named _Coding a TCP Connect Port Scanner: Step by Step_ by truncode security development
 * Python: _HowTo/Sockets_ from the official Python wiki at https://wiki.python.org/moin/HowTo/Sockets
 * Ruby: Contribution by [jbarbera](https://github.com/jbarbera) :metal:
-* SHell: Contribution by [jbarbera](https://github.com/jbarbera) :metal::metal:
+* Shell: Contribution by [jbarbera](https://github.com/jbarbera) :metal::metal:
 <br>
 
 ### Benchmark results
